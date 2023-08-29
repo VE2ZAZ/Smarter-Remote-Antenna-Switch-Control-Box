@@ -1,7 +1,7 @@
 # A Smarter Remote Antenna Switch Control Box 
 ### Add automatic antenna selection to an Ameritron or similar remote antenna switch when paired with an ICOM transceiver such as the IC-7300.
 
-!(/images/Radio_Box.png)
+![](/images/Radio_Box.png)
 
 Note: This repository stores the Arduino IDE code that runs on the Raspberry Pi Pico platform which controls the project described here. The full documentation for this project is available on [VE2ZAZ's website](https://ve2zaz.net/Antenna_Switch_Controller/Antenna_Sw_Control.htm).
 
